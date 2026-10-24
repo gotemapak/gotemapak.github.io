@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gotemapak.github.io/listen-youtube-bot/sitemap.xml
